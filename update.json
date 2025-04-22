@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "code": 100,
+  "version": "1.0.1",
+  "code": 101,
   "description": "Lançamento",
   "target": "https://raw.githubusercontent.com/magicstudiogames/instant_reward/refs/heads/main/"
 }
